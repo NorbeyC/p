@@ -1,3 +1,3 @@
 # Clases de equivcalencia
 
-    ## Especificacion                 ## Caso de prueba
+## Especificacion                 ##Caso de prueba
