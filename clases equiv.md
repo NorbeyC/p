@@ -1,1 +1,1 @@
-#Clases de equivcalencia
+# Clases de equivcalencia
